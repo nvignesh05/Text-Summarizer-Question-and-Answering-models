@@ -1,2 +1,2 @@
-# Text-Summarizer-Question-and-Answering-models
-from my internship
+# Text Summarizer & Question and Answering-models
+<I>from my internship</i>
